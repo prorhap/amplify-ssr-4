@@ -42,7 +42,7 @@ export default function Home({quote}){
                 </div>
             </div>
             <div>
-                <a href="csr">client-side rendered page 에서 보기</a>
+                <a href="/">client-side rendered page 에서 보기</a>
             </div>
         </main>
         </>
